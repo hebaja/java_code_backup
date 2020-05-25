@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6821d275-aa53-4a31-b28d-f70cc57e5bcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_json_tester/java_json_tester.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_json_tester/src/br/com/hebaja/json_tester/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json-test/json-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_json/my_json.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casadocodigo/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../casadocodigo/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casadocodigo/target/m2e-wtp/web-resources/META-INF/maven/org.casadocodigo/casadocodigo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../casadocodigo/target/m2e-wtp/web-resources/META-INF/maven/org.casadocodigo/casadocodigo/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cB5fVqjA7FMWVX7NyPTCvP53mK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6821d275-aa53-4a31-b28d-f70cc57e5bcc" name="Default Changelist" comment="" />
+      <created>1589989249118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589989249118</updated>
+    </task>
+    <servers />
+  </component>
+</project>

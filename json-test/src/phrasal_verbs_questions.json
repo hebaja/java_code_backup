@@ -1,0 +1,142 @@
+[
+  {
+    "Prompt": "The dog went for him.",
+    "OptionA": "a) The dog barked at him.",
+    "OptionB": "b) The dog attacked him.",
+    "OptionC": "c) The dog followed him.",
+    "RightAnswer": "b"
+  },
+  {
+    "Prompt": "She hadn't bargained for this.",
+    "OptionA": "a) She hadn't expected this.",
+    "OptionB": "b) She hadn't bought this.",
+    "OptionC": "c) She hadn't profited from this.",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "It suddenly dawned on her.",
+    "OptionA": "a) She suddenly turned the lights on.",
+    "OptionB": "b) She suddenly realised.",
+    "OptionC": "c) She was suddenly seen.",
+    "RightAnswer": "b"
+  },
+  {
+    "Prompt": "I feel for you.",
+    "OptionA": "a) I am fond of you.",
+    "OptionB": "b) I pity you.",
+    "OptionC": "c) I sympathise for you.",
+    "RightAnswer": "c"
+  },
+  {
+    "Prompt": "She got over her illness.",
+    "OptionA": "a) She learned from her ilness.",
+    "OptionB": "b) She died from her ilness.",
+    "OptionC": "c) She recovered from her illness.",
+    "RightAnswer": "c"
+  },
+  {
+    "Prompt": "The police looked into it.",
+    "OptionA": "a) The police didn't care about it.",
+    "OptionB": "b) The police ivestigated it.",
+    "OptionC": "c) The police looked inside it.",
+    "RightAnswer": "b"
+  },
+  {
+    "Prompt": "They talked it over.",
+    "OptionA": "a) They discussed it.",
+    "OptionB": "b) They talked a lot.",
+    "OptionC": "c) They gossiped.",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "She did up her laces.",
+    "OptionA": "a) She tied her laces.",
+    "OptionB": "b) She painted her laces.",
+    "OptionC": "c) She sewed her laces.",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "He called on her.",
+    "OptionA": "a) He telephoned her.",
+    "OptionB": "b) He visited her.",
+    "OptionC": "c) He blamed her.",
+    "RightAnswer": "b"
+  },
+  {
+    "Prompt": "She made for the living room.",
+    "OptionA": "a) She went towards the living room.",
+    "OptionB": "b) She paid to build the living room.",
+    "OptionC": "c) She decorated the living room.",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "He launched into a long speech.",
+    "OptionA": "a) He improvised a long speech.",
+    "OptionB": "b) He got lost in his long speech.",
+    "OptionC": "c) He began a long speech.",
+    "RightAnswer": "c"
+  },
+  {
+    "Prompt": "He takes after his mother.",
+    "OptionA": "a) He has the same profession as his mother.",
+    "OptionB": "b) He looks like his mother.",
+    "OptionC": "c) He is like his mother.",
+    "RightAnswer": "c"
+  },
+  {
+    "Prompt": "She came up with the solution.",
+    "OptionA": "a) She refused the solution.",
+    "OptionB": "b) She thought of the solution.",
+    "OptionC": "c) She couldn't understand the solution.",
+    "RightAnswer": "b"
+  },
+  {
+    "Prompt": "He pointed out the mall would be closed.",
+    "OptionA": "a) He informed the mall would be closed.",
+    "OptionB": "a) He forgot the mall would be closed.",
+    "OptionC": "a) He remembered the mall would be closed.",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "It was easy to find out the answer.",
+    "OptionA": "a) It was easy to forget the answer.",
+    "OptionB": "b) It was easy to share the answer.",
+    "OptionC": "c) It was easy to discover the answer.",
+    "RightAnswer": "c"
+  },
+  {
+    "Prompt": "Who's going to take on the new client?",
+    "OptionA": "a) Who's going to be responsible for the new client?",
+    "OptionB": "b) Who's going to bring the new client?",
+    "OptionC": "Who's going to talk to the new client?",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "When are we setting up the next meeting?",
+    "OptionA": "a) When are we recording the next meeting?",
+    "OptionB": "b) When are we arranging the next meeting?",
+    "OptionC": "c) When are we beginning the next meeting?",
+    "RightAnswer": "b"
+  },
+  {
+    "Prompt": "He will not back down on his decision.",
+    "OptionA": "a) He will not change his mind about his decision",
+    "OptionB": "b) He will not think about his decision.",
+    "OptionC": "c) He won't ellaborate his decision.",
+    "RightAnswer": "a"
+  },
+  {
+    "Prompt": "Book in at the reception.",
+    "OptionA": "a) Take your book at the reception",
+    "OptionB": "b) Pay for the book at the reception",
+    "OptionC": "c) Register at the reception",
+    "RightAnswer": "c"
+  },
+  {
+    "Prompt": "I can't piece together the truth about it.",
+    "OptionA": "a) I can't discover the truth about it.",
+    "OptionB": "b) I can't hide the truth about it.",
+    "OptionC": "c) I can't deny the truth about it.",
+    "RightAnswer": "a"
+  }
+]
